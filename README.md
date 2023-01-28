@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Shiva-Kumar-hub
+- 👋 Hi, I’m @Shiva-Kumar-Dande
 - 👀 I’m Pursuing Masters in Electrical and Computer Engineering at Northeastern University, Boston MA.
-- 🌱 I’m currently learning Computer Vision, Machine Learning, and Algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - Mail: dande.sh@northeastern.edu, Phone: 617-238-4288
+- 🌱 I’m currently learning Computer Vision, Machine Learning, and Algorithms 
+- 📫 How to reach me - Mail: dande.sh@northeastern.edu, Phone: +1 617-238-4288
 - 
 
 <!---
